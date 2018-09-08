@@ -1,0 +1,7 @@
+G:\adv compro\Assignment1 fogger\Fogger\Fogger\obj\Debug\Fogger.csprojResolveAssemblyReference.cache
+G:\adv compro\Assignment1 fogger\Fogger\Fogger\obj\Debug\Fogger.csproj.CoreCompileInputs.cache
+G:\adv compro\Assignment1 fogger\Fogger\Fogger\bin\Debug\Fogger.exe.config
+G:\adv compro\Assignment1 fogger\Fogger\Fogger\bin\Debug\Fogger.exe
+G:\adv compro\Assignment1 fogger\Fogger\Fogger\bin\Debug\Fogger.pdb
+G:\adv compro\Assignment1 fogger\Fogger\Fogger\obj\Debug\Fogger.exe
+G:\adv compro\Assignment1 fogger\Fogger\Fogger\obj\Debug\Fogger.pdb
